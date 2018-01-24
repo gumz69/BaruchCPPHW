@@ -15,7 +15,7 @@ void main()
 
 	// Ask the user to input base and height of the triangle.
 	printf("Please input the base and height of the triangle.\n");
-	
+
 	if (scanf_s("%lf %lf", &base, &height))
 	{
 		if (base > 0 && height > 0)

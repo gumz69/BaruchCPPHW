@@ -7,8 +7,8 @@
 
 #include <stdio.h>
 
-void main()
+int main()
 {
 	// Print the sentence on screen.
-	printf("My first C-program\nis a fact!\nGood, isn't it?\n");
+	printf("Hi, My Name is Gumilar Sulistian I'm from Indonesia :)");
 }
